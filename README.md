@@ -1,9 +1,2 @@
-# WindoBytes.exe-My-Marwale-No-Mbr-Destructive-
-
-Marwale Peaceful Version
-
-C++ Peaceful Virus
-
-No Source Code :(
-
-Engory!
+# WindoBytes
+C++ skidded GDI trojan by Kwinda534
